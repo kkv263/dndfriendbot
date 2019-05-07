@@ -41,7 +41,7 @@ client = gspread.authorize(creds)
 # Find a workbook by name and open the first sheet
 # Make sure you use the right name here.
 sheet = client.open("Magic Item Table (Xyffei Test)").sheet1
-token = 'not yours'
+token = 'NTY2MDI0NjgxODI0NDUyNjE5.XK_H-Q.-8hm56OzGH0uJ5cyiMUnMB5pBCc'
 client = discord.Client()
 
 gameCategory = "Game Rooms"
